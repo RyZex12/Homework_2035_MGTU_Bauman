@@ -17,7 +17,7 @@ KAIFOVIE RABOTY C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZex12)](https://github.com/anuraghazra/github-readme-stats)
 
-[![rzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![rzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyZex12&theme=tokyonuight&show_icons=true)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink)](https://github.com/piyushsuthar/github-readme-quotes)
 
