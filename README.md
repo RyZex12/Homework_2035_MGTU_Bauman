@@ -1,7 +1,7 @@
 # Homework_2035_MGTU_Bauman
 KAIFOVIE RABOTY C++
 
-<h1 align="center">Работягам привет, Я <a href="https://github.com/RyZex12" target="_blank">Егорка!</a>  
+<h1 align="center">Работягам привет, Я <a href="https://github.com/RyZex12" target="_blank">Егорка🎵💜</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
