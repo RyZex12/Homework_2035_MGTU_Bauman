@@ -11,17 +11,22 @@ KAIFOVIE RABOTY C++
 
 <!---Для компактной версии-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZex12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZex12&layout=compact)](https://github.com/RyZex12/github-readme-stats)
 
 <!---Для подробной версии-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZex12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyZex12)](https://github.com/RyZex12/github-readme-stats)
 
-[![rzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyZex12&theme=tokyonuight&show_icons=true)
+[![rzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyZex12&theme=synthwave&show_icons=true)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink)](https://github.com/piyushsuthar/github-readme-quotes)
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_Frappe)](https://github.com/piyushsuthar/github-readme-quotes)
+  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
